@@ -1,7 +1,7 @@
 window.areas = {
-   "type":"FeatureCollection",
-   "features": [
-      {
+  "type": "FeatureCollection",
+  "features": [
+    {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -841,8 +841,8 @@ window.areas = {
               51.339996
             ],
             [
-              12.340672,
-              51.330719
+              12.339363,
+              51.338763
             ],
             [
               12.340114,
