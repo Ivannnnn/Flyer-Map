@@ -1,4 +1,7 @@
 window.areas = {
+   "type":"FeatureCollection",
+   "features": [
+      {
       "type": "Feature",
       "geometry": {
         "coordinates": [
@@ -1090,4 +1093,5 @@ window.areas = {
     }
   ]
 }
-
+   ]
+}
